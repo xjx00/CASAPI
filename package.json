@@ -1,0 +1,16 @@
+{
+  "name": "casapi",
+  "version": "1.0.0",
+  "description": "component archive system api",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "sqlite3": "^4.0.3"
+  }
+}
